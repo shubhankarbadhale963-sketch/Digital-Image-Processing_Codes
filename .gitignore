@@ -20,6 +20,6 @@ venv/
 *.pdf
 
 # Keep images (important for DIP)
-# *.jpg
-# *.jpeg
-# *.png
+*.jpg
+*.jpeg
+*.png
